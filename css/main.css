@@ -1,0 +1,25 @@
+/*utilizando el selector universal para darle a los elementos de bloque el ancho y alto común*/
+*{
+  box-sizing: border-box;
+  width:200px;
+  height: 120px;
+}
+/*llamando al atributo id y dandole color a las cajas*/
+#p1 {
+    background: rgb(247, 179, 7);
+    padding: 8px;
+    margin: 16px;
+    }
+
+#p2 {
+    background: black;
+    padding: 8px;
+    margin: 16px;
+    color: white;
+    }
+
+#p3 {
+    background: rgb(247, 179, 7);
+    padding: 8px;
+    margin: 16px;
+    }
