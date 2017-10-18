@@ -5,4 +5,4 @@ el siguiente proyecto contiene el ejercicio dos de la clase práctica.
 + HTML5
 + CSS3
 
-![Texto alternativo](/ruta/a/la/imagen.png "Título alternativo")
+![Texto alternativo](https://github.com/Lizncq/ejercicio2/blob/master/assets/imgs/img1.JPG)
